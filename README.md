@@ -2,6 +2,9 @@
 
 Welcome to Dino_Dash_AI! This project showcases an AI-powered bot that plays the popular Chrome Dino Game. Leveraging PyTorch and EfficientNet, this bot can automatically navigate the game and avoid obstacles with precision.
 
+![image](https://github.com/Hairul343/Dino-_Dash-_AI/assets/140678940/56acfc08-20dd-435e-9614-cc9a82663318)
+
+
 ## Table of Contents
 
 - [Overview](#overview)
